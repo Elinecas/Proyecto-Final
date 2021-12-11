@@ -1,0 +1,38 @@
+C:\Users\rafae\source\repos\Proyecto Final\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Proyecto Final\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Proyecto Final\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Proyecto Final\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Proyecto Final\Correo\bin\Debug\netcoreapp3.1\Correo.deps.json
+C:\Users\rafae\source\repos\Proyecto Final\Correo\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\rafae\source\repos\Proyecto Final\Correo\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\rafae\source\repos\Proyecto Final\Correo\obj\Debug\netcoreapp3.1\Correo.dll
+C:\Users\rafae\source\repos\Proyecto Final\Correo\obj\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfoInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfo.cs
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\bin\Debug\netcoreapp3.1\Correo.deps.json
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\bin\Debug\netcoreapp3.1\Correo.deps.json
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfo.cs
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.AssemblyReference.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\bin\Debug\netcoreapp3.1\Correo.deps.json
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\bin\Debug\netcoreapp3.1\Correo.dll
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\bin\Debug\netcoreapp3.1\Correo.pdb
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.AssemblyReference.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfoInputs.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.AssemblyInfo.cs
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.csproj.CoreCompileInputs.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.dll
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Correo\obj\Debug\netcoreapp3.1\Correo.pdb

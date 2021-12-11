@@ -1,0 +1,38 @@
+C:\Users\rafae\source\repos\Proyecto Final\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\rafae\source\repos\Proyecto Final\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\rafae\source\repos\Proyecto Final\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\rafae\source\repos\Proyecto Final\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Proyecto Final\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Proyecto Final\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Proyecto Final\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Proyecto Final\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\rafae\source\repos\Proyecto Final\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\rafae\Downloads\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Enmasdiaz\Documents\TAREAS\Proyecto-Final-Principal\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Eline\Desktop\FinalProject-Pruebas\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
